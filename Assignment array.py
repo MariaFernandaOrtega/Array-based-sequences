@@ -1,3 +1,8 @@
+"""
+
+@author: Maria Fernanda Ortega
+"""
+
 def encrypt(key, message):
     message = message.upper()
     alpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
